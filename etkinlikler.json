@@ -1,0 +1,18 @@
+{
+   "etkinlikler":[
+      {
+         "title":"Bir Baba Hamlet",
+         "url":"https://tiyatrolar.com.tr/tiyatro/bir-baba-hamlet",
+         "sessions":[
+            {
+               "date":"2020-01-22",
+               "place":"Istanbul"
+            },
+            {
+               "date":"2020-01-23",
+               "place":"Istanbul"
+            }
+         ]
+      }
+   ]
+}
