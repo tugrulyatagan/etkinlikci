@@ -3,7 +3,12 @@ from bs4 import BeautifulSoup
 import datetime
 import json
 import smtplib
+import time
+import traceback
+import random
 from email.mime.text import MIMEText
+
+POLL_INTERVAL = 60 * 60
 
 
 def send_email(subject, body):
@@ -41,18 +46,29 @@ def get_tiyatrolar_sessions(url):
     return result
 
 
-with open('events.json', 'r', encoding='utf-8') as json_file:
-    events = json.load(json_file)
+while True:
+    try:
+        while True:
+            print("Check events {}".format(datetime.datetime.now()))
+            with open('events.json', 'r', encoding='utf-8') as json_file:
+                events = json.load(json_file)
 
-for event in events:
-    tiyatrolar_sessions = get_tiyatrolar_sessions(event["url"])
-    for tiyatrolar_session in tiyatrolar_sessions:
-        if tiyatrolar_session not in event["sessions"]:
-            print("New session is found for {}".format(event["url"]))
-            email_body="New session is found for:\nURL: {}\nDate: {}\nPlace: {}\n".format(event["url"], tiyatrolar_session["date"], tiyatrolar_session["place"])
-            send_email("New session is found", email_body)
-            print(tiyatrolar_session)
-            event["sessions"].append({"date" : tiyatrolar_session["date"], "place" : tiyatrolar_session["place"]})
+            for event in events:
+                tiyatrolar_sessions = get_tiyatrolar_sessions(event["url"])
+                for tiyatrolar_session in tiyatrolar_sessions:
+                    if tiyatrolar_session not in event["sessions"]:
+                        print("New session is found for {}".format(event["url"]))
+                        email_body="New session is found for:\nURL: {}\nDate: {}\nPlace: {}\n".format(event["url"], tiyatrolar_session["date"], tiyatrolar_session["place"])
+                        send_email("New session is found", email_body)
+                        print(tiyatrolar_session)
+                        event["sessions"].append({"date" : tiyatrolar_session["date"], "place" : tiyatrolar_session["place"]})
 
-with open('events.json', 'w', encoding='utf-8') as json_file:
-    json.dump(events, json_file, ensure_ascii=False, indent=4)
+            with open('events.json', 'w', encoding='utf-8') as json_file:
+                json.dump(events, json_file, ensure_ascii=False, indent=4)
+
+            time.sleep(POLL_INTERVAL + random.randint(0, 1000))
+
+    except Exception as e:
+        print(e)
+        traceback.print_exc()
+        time.sleep(POLL_INTERVAL)
