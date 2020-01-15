@@ -35,7 +35,7 @@ def get_tiyatrolar_sessions(url):
             datestr = session.contents[1]
             datesplit = datestr.split()
             date = datetime.datetime.strptime("{} {}".format(datesplit[0], datesplit[3]), '%d.%m.%Y %H:%M')
-            placestr = session.contents[3].text
+            placestr = session.contents[-1].text
             datestr = date.strftime("%Y-%m-%d-%H-%M")
             result.append({"date" : datestr, "place" : placestr})
     return result

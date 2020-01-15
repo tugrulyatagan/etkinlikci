@@ -293,5 +293,111 @@
     {
         "url": "https://tiyatrolar.com.tr/tiyatro/cati",
         "sessions": []
+    },
+    {
+        "url": "https://tiyatrolar.com.tr/tiyatro/ikinin-biri-1",
+        "sessions": [
+            {
+                "date": "2020-01-19-19-00",
+                "place": "Caddebostan Kültür Merkezi / İstanbul"
+            },
+            {
+                "date": "2020-01-20-20-00",
+                "place": "Nilüfer Sahnesi / Bursa"
+            },
+            {
+                "date": "2020-01-21-20-00",
+                "place": "Nilüfer Sahnesi / Bursa"
+            },
+            {
+                "date": "2020-01-23-20-00",
+                "place": "MEB Şura Salonu / Ankara"
+            },
+            {
+                "date": "2020-01-28-20-30",
+                "place": "Kocaeli Sabancı Kültür Merkezi / Kocaeli"
+            },
+            {
+                "date": "2020-02-01-20-00",
+                "place": "Adana Büyükşehir Belediyesi Tiyatro Salonu / Adana"
+            },
+            {
+                "date": "2020-02-08-20-30",
+                "place": "Bostanlı Suat Taşer Tiyatrosu / İzmir"
+            },
+            {
+                "date": "2020-02-09-18-30",
+                "place": "İzmir AKM Tiyatro Salonu / İzmir"
+            },
+            {
+                "date": "2020-02-19-20-30",
+                "place": "Kadıköy Halk Eğitim Merkezi / İstanbul"
+            },
+            {
+                "date": "2020-02-20-20-30",
+                "place": "Trump Kültür ve Gösteri Merkezi / İstanbul"
+            },
+            {
+                "date": "2020-03-21-20-30",
+                "place": "Beylikdüzü Atatürk Kültür ve Sanat Merkezi / İstanbul"
+            },
+            {
+                "date": "2020-03-30-20-00",
+                "place": "Osman Hamdi Bey Kültür Merkezi / Kocaeli"
+            }
+        ]
+    },
+    {
+        "url": "https://tiyatrolar.com.tr/tiyatro/plastik-asklar",
+        "sessions": [
+            {
+                "date": "2020-01-15-20-00",
+                "place": "50. Yıl 4 Mevsim Tiyatro Salonu / Ankara"
+            },
+            {
+                "date": "2020-01-16-20-00",
+                "place": "Nazım Hikmet Kültür Merkezi / Ankara"
+            },
+            {
+                "date": "2020-01-22-20-30",
+                "place": "İzmir AKM Tiyatro Salonu / İzmir"
+            },
+            {
+                "date": "2020-01-25-20-30",
+                "place": "Duru Tiyatro / İstanbul"
+            },
+            {
+                "date": "2020-01-28-20-30",
+                "place": "Trump Kültür ve Gösteri Merkezi / İstanbul"
+            },
+            {
+                "date": "2020-01-30-21-00",
+                "place": "Dada Salon Kabarett / İstanbul"
+            },
+            {
+                "date": "2020-02-04-20-00",
+                "place": "Fethiye Belediyesi Kültür Merkezi / Muğla"
+            },
+            {
+                "date": "2020-02-05-20-30",
+                "place": "Antalya Kültür Merkezi / Antalya"
+            },
+            {
+                "date": "2020-02-15-20-00",
+                "place": "Kocaeli Sabancı Kültür Merkezi / Kocaeli"
+            },
+            {
+                "date": "2020-02-19-20-30",
+                "place": "Baba Sahne / İstanbul"
+            },
+            {
+                "date": "2020-02-23-19-00",
+                "place": "Mall of İstanbul MOİ Sahne / İstanbul"
+            },
+            {
+                "date": "2020-02-25-20-30",
+                "place": "Kadıköy Halk Eğitim Merkezi / İstanbul"
+            }
+        ]
     }
 ]
