@@ -300,6 +300,10 @@
             {
                 "date": "2020-02-11-20-30",
                 "place": "Moda Sahnesi / İstanbul"
+            },
+            {
+                "date": "2020-02-28-20-30",
+                "place": "Kadıköy Boa Sahne / İstanbul"
             }
         ]
     },
@@ -410,7 +414,85 @@
             {
                 "date": "2020-02-25-20-30",
                 "place": "Kadıköy Halk Eğitim Merkezi / İstanbul"
+            },
+            {
+                "date": "2020-01-26-20-00",
+                "place": "Bolu İl Kültür Ve Turizm Müdürlüğü / Bolu"
+            },
+            {
+                "date": "2020-02-14-20-30",
+                "place": "Caddebostan Kültür Merkezi / İstanbul"
+            },
+            {
+                "date": "2020-02-27-20-00",
+                "place": "Eskişehir Zübeyde Hanım Kültür Merkezi / Eskişehir"
+            },
+            {
+                "date": "2020-03-01-20-00",
+                "place": "Aksaray Kültür Merkezi / Aksaray"
+            },
+            {
+                "date": "2020-03-05-20-30",
+                "place": "Duru Tiyatro / İstanbul"
+            },
+            {
+                "date": "2020-03-22-19-00",
+                "place": "Torium Sahne / İstanbul"
+            },
+            {
+                "date": "2020-03-23-20-00",
+                "place": "Osman Hamdi Bey Kültür Merkezi / Kocaeli"
             }
         ]
+    },
+    {
+        "url": "https://tiyatrolar.com.tr/tiyatro/kizlar-ve-oglanlar",
+        "sessions": []
+    },
+    {
+        "url": "https://tiyatrolar.com.tr/tiyatro/red-light-kisi",
+        "sessions": [
+            {
+                "date": "2020-01-21-20-30",
+                "place": "Zorlu PSM / İstanbul"
+            },
+            {
+                "date": "2020-01-29-20-30",
+                "place": "Kadıköy Boa Sahne / İstanbul"
+            },
+            {
+                "date": "2020-02-17-20-30",
+                "place": "Kadıköy Boa Sahne / İstanbul"
+            },
+            {
+                "date": "2020-02-24-20-30",
+                "place": "Uniq Hall / İstanbul"
+            },
+            {
+                "date": "2020-02-25-20-30",
+                "place": "Kadıköy Boa Sahne / İstanbul"
+            }
+        ]
+    },
+    {
+        "url": "https://tiyatrolar.com.tr/tiyatro/anne-yoksa-evde-kimse-yoktur",
+        "sessions": [
+            {
+                "date": "2020-01-22-20-30",
+                "place": "Kadıköy Boa Sahne / İstanbul"
+            },
+            {
+                "date": "2020-02-10-20-30",
+                "place": "Kadıköy Boa Sahne / İstanbul"
+            },
+            {
+                "date": "2020-02-23-20-30",
+                "place": "Kadıköy Boa Sahne / İstanbul"
+            }
+        ]
+    },
+    {
+        "url": "https://tiyatrolar.com.tr/tiyatro/eylul",
+        "sessions": []
     }
 ]
