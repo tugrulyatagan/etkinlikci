@@ -32,24 +32,31 @@ def send_email(subject, body):
 
 def get_tiyatrolar_sessions(url):
     response = requests.get(url)
-    soup = BeautifulSoup(response.text, 'html.parser')
+    soup = BeautifulSoup(response.text, 'lxml')
     sessions = soup.find(id="activity_session").find_all('p')
     result = []
     for session in sessions:
-        if "BİLET AL" in session.text:
+        if len(session.contents) == 4:
             datestr = session.contents[1]
-            datesplit = datestr.split()
-            date = datetime.datetime.strptime("{} {}".format(datesplit[0], datesplit[3]), '%d.%m.%Y %H:%M')
-            placestr = session.contents[-1].text
-            datestr = date.strftime("%Y-%m-%d-%H-%M")
-            result.append({"date" : datestr, "place" : placestr})
+            placestr = session.contents[3].text
+        elif len(session.contents) == 3:
+            datestr = session.contents[0]
+            placestr = session.contents[2].text
+        else:
+            continue
+
+
+        datesplit = datestr.split()
+        date = datetime.datetime.strptime("{} {}".format(datesplit[0], datesplit[3]), '%d.%m.%Y %H:%M')
+        datestr = date.strftime("%Y-%m-%d-%H-%M")
+        result.append({"date" : datestr, "place" : placestr})
     return result
 
 
 while True:
     try:
         while True:
-            print("Check events {}".format(datetime.datetime.now()))
+            print("Check events started {}".format(datetime.datetime.now()))
             with open('events.json', 'r', encoding='utf-8') as json_file:
                 events = json.load(json_file)
 
@@ -66,6 +73,7 @@ while True:
             with open('events.json', 'w', encoding='utf-8') as json_file:
                 json.dump(events, json_file, ensure_ascii=False, indent=4)
 
+            print("Check events completed {}".format(datetime.datetime.now()))
             time.sleep(POLL_INTERVAL + random.randint(0, 1000))
 
     except Exception as e:
