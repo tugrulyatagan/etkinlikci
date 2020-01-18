@@ -36,19 +36,14 @@ def get_tiyatrolar_sessions(url):
     sessions = soup.find(id="activity_session").find_all('p')
     result = []
     for session in sessions:
-        if len(session.contents) == 4:
-            datestr = session.contents[1]
-            placestr = session.contents[3].text
-        elif len(session.contents) == 3:
-            datestr = session.contents[0]
-            placestr = session.contents[2].text
-        else:
+        if len(session.contents) not in [3, 4]:
             continue
 
-
+        datestr = session.contents[-3]
         datesplit = datestr.split()
         date = datetime.datetime.strptime("{} {}".format(datesplit[0], datesplit[3]), '%d.%m.%Y %H:%M')
         datestr = date.strftime("%Y-%m-%d-%H-%M")
+        placestr = session.contents[-1].text
         result.append({"date" : datestr, "place" : placestr})
     return result
 
