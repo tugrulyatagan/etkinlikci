@@ -58,12 +58,16 @@ while True:
             for event in events:
                 tiyatrolar_sessions = get_tiyatrolar_sessions(event["url"])
                 for tiyatrolar_session in tiyatrolar_sessions:
-                    if tiyatrolar_session not in event["sessions"]:
-                        print("New session is found for {}".format(event["url"]))
-                        email_body="New session is found for:\nURL: {}\nDate: {}\nPlace: {}\n".format(event["url"], tiyatrolar_session["date"], tiyatrolar_session["place"])
-                        send_email("New session is found", email_body)
-                        print(tiyatrolar_session)
-                        event["sessions"].append({"date" : tiyatrolar_session["date"], "place" : tiyatrolar_session["place"]})
+                    if tiyatrolar_session in event["sessions"]:
+                        continue
+                    if tiyatrolar_session["place"] == "ONLINE SATIŞA KAPANDI":
+                        continue
+
+                    print("New session is found for {}".format(event["url"]))
+                    email_body="New session is found for:\nURL: {}\nDate: {}\nPlace: {}\n".format(event["url"], tiyatrolar_session["date"], tiyatrolar_session["place"])
+                    send_email("New session is found", email_body)
+                    print(tiyatrolar_session)
+                    event["sessions"].append({"date" : tiyatrolar_session["date"], "place" : tiyatrolar_session["place"]})
 
             with open('events.json', 'w', encoding='utf-8') as json_file:
                 json.dump(events, json_file, ensure_ascii=False, indent=4)
