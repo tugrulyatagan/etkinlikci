@@ -2,88 +2,88 @@
     {
         "sessions": [
             {
-                "date": "2020-01-15-20-30",
-                "place": "Baba Sahne / İstanbul"
+                "place": "Baba Sahne / İstanbul",
+                "date": "2020-01-15-20-30"
             },
             {
-                "date": "2020-01-16-20-30",
-                "place": "Baba Sahne / İstanbul"
+                "place": "Baba Sahne / İstanbul",
+                "date": "2020-01-16-20-30"
             },
             {
-                "date": "2020-01-17-20-30",
-                "place": "Baba Sahne / İstanbul"
+                "place": "Baba Sahne / İstanbul",
+                "date": "2020-01-17-20-30"
             },
             {
-                "date": "2020-01-20-20-00",
-                "place": "MEB Şura Salonu / Ankara"
+                "place": "MEB Şura Salonu / Ankara",
+                "date": "2020-01-20-20-00"
             },
             {
-                "date": "2020-01-23-20-30",
-                "place": "Mall of İstanbul MOİ Sahne / İstanbul"
+                "place": "Mall of İstanbul MOİ Sahne / İstanbul",
+                "date": "2020-01-23-20-30"
             },
             {
-                "date": "2020-01-24-20-30",
-                "place": "Baba Sahne / İstanbul"
+                "place": "Baba Sahne / İstanbul",
+                "date": "2020-01-24-20-30"
             },
             {
-                "date": "2020-01-25-20-30",
-                "place": "Baba Sahne / İstanbul"
+                "place": "Baba Sahne / İstanbul",
+                "date": "2020-01-25-20-30"
             },
             {
-                "date": "2020-01-30-20-30",
-                "place": "Bostanlı Suat Taşer Tiyatrosu / İzmir"
+                "place": "Bostanlı Suat Taşer Tiyatrosu / İzmir",
+                "date": "2020-01-30-20-30"
             },
             {
-                "date": "2020-02-06-20-30",
-                "place": "Baba Sahne / İstanbul"
+                "place": "Baba Sahne / İstanbul",
+                "date": "2020-02-06-20-30"
             },
             {
-                "date": "2020-02-07-20-30",
-                "place": "Baba Sahne / İstanbul"
+                "place": "Baba Sahne / İstanbul",
+                "date": "2020-02-07-20-30"
             },
             {
-                "date": "2020-02-08-20-30",
-                "place": "Baba Sahne / İstanbul"
+                "place": "Baba Sahne / İstanbul",
+                "date": "2020-02-08-20-30"
             },
             {
-                "date": "2020-02-11-20-30",
-                "place": "Baba Sahne / İstanbul"
+                "place": "Baba Sahne / İstanbul",
+                "date": "2020-02-11-20-30"
             },
             {
-                "date": "2020-02-12-20-30",
-                "place": "Baba Sahne / İstanbul"
+                "place": "Baba Sahne / İstanbul",
+                "date": "2020-02-12-20-30"
             },
             {
-                "date": "2020-02-17-20-30",
-                "place": "Baba Sahne / İstanbul"
+                "place": "Baba Sahne / İstanbul",
+                "date": "2020-02-17-20-30"
             },
             {
-                "date": "2020-02-18-20-30",
-                "place": "Baba Sahne / İstanbul"
+                "place": "Baba Sahne / İstanbul",
+                "date": "2020-02-18-20-30"
             },
             {
-                "date": "2020-01-18-20-30",
-                "place": "Baba Sahne / İstanbul"
+                "place": "Baba Sahne / İstanbul",
+                "date": "2020-01-18-20-30"
             },
             {
-                "date": "2020-02-13-20-30",
-                "place": "Baba Sahne / İstanbul"
+                "place": "Baba Sahne / İstanbul",
+                "date": "2020-02-13-20-30"
             },
             {
-                "date": "2020-02-15-20-30",
-                "place": "Beylikdüzü Atatürk Kültür ve Sanat Merkezi / İstanbul"
+                "place": "Beylikdüzü Atatürk Kültür ve Sanat Merkezi / İstanbul",
+                "date": "2020-02-15-20-30"
             },
             {
-                "date": "2020-02-29-20-00",
-                "place": "Diyarbakır Büyükşehir Belediyesi Kültür ve Kongre Merkezi / Diyarbakır"
+                "place": "Diyarbakır Büyükşehir Belediyesi Kültür ve Kongre Merkezi / Diyarbakır",
+                "date": "2020-02-29-20-00"
             },
             {
-                "date": "2020-03-01-20-00",
-                "place": "Urfa City AVM / Şanlıurfa"
+                "place": "Urfa City AVM / Şanlıurfa",
+                "date": "2020-03-01-20-00"
             },
             {
-                "date": "2020-03-07-20-00",
-                "place": "Kocaeli Sabancı Kültür Merkezi / Kocaeli"
+                "place": "Kocaeli Sabancı Kültür Merkezi / Kocaeli",
+                "date": "2020-03-07-20-00"
             }
         ],
         "url": "https://tiyatrolar.com.tr/tiyatro/bir-baba-hamlet"
@@ -91,33 +91,12 @@
     {
         "sessions": [
             {
-                "date": "2020-01-22-20-30",
-                "place": "Çevre Tiyatrosu / İstanbul"
+                "place": "BİLETLER TÜKENMİŞTİR!",
+                "date": "2020-03-15-17-00"
             },
             {
-                "date": "2020-01-24-20-30",
-                "place": "Çevre Tiyatrosu / İstanbul"
-            },
-            {
-                "date": "2020-01-29-20-30",
-                "place": "Çevre Tiyatrosu / İstanbul"
-            },
-            {
-                "date": "2020-02-11-20-00",
-                "place": "Caddebostan Kültür Merkezi / İstanbul"
-            }
-        ],
-        "url": "https://tiyatrolar.com.tr/tiyatro/cimri5"
-    },
-    {
-        "sessions": [
-            {
-                "date": "2020-03-15-17-00",
-                "place": "BİLETLER TÜKENMİŞTİR!"
-            },
-            {
-                "date": "2020-03-16-20-30",
-                "place": "BİLETLER TÜKENMİŞTİR!"
+                "place": "BİLETLER TÜKENMİŞTİR!",
+                "date": "2020-03-16-20-30"
             }
         ],
         "url": "https://tiyatrolar.com.tr/tiyatro/yutmak"
@@ -125,32 +104,32 @@
     {
         "sessions": [
             {
-                "date": "2020-01-16-21-00",
-                "place": "Beşiktaş Kültür Merkezi / İstanbul"
+                "place": "Beşiktaş Kültür Merkezi / İstanbul",
+                "date": "2020-01-16-21-00"
             },
             {
-                "date": "2020-01-17-21-00",
-                "place": "Selçuklu Kongre Merkezi / Konya"
+                "place": "Selçuklu Kongre Merkezi / Konya",
+                "date": "2020-01-17-21-00"
             },
             {
-                "date": "2020-01-18-21-00",
-                "place": "Congresium Ankara / Ankara"
+                "place": "Congresium Ankara / Ankara",
+                "date": "2020-01-18-21-00"
             },
             {
-                "date": "2020-01-23-21-00",
-                "place": "Beşiktaş Kültür Merkezi / İstanbul"
+                "place": "Beşiktaş Kültür Merkezi / İstanbul",
+                "date": "2020-01-23-21-00"
             },
             {
-                "date": "2020-01-30-21-00",
-                "place": "Beşiktaş Kültür Merkezi / İstanbul"
+                "place": "Beşiktaş Kültür Merkezi / İstanbul",
+                "date": "2020-01-30-21-00"
             },
             {
-                "date": "2020-01-31-21-00",
-                "place": "Bostancı Gösteri Merkezi / İstanbul"
+                "place": "Bostancı Gösteri Merkezi / İstanbul",
+                "date": "2020-01-31-21-00"
             },
             {
-                "date": "2020-02-08-21-00",
-                "place": "Atatürk Kongre Kültür Merkezi / Bursa"
+                "place": "Atatürk Kongre Kültür Merkezi / Bursa",
+                "date": "2020-02-08-21-00"
             }
         ],
         "url": "https://tiyatrolar.com.tr/tiyatro/ata-demirer-gazinosu"
@@ -158,112 +137,112 @@
     {
         "sessions": [
             {
-                "date": "2020-02-03-21-00",
-                "place": "Zorlu PSM / İstanbul"
+                "place": "Zorlu PSM / İstanbul",
+                "date": "2020-02-03-21-00"
             },
             {
-                "date": "2020-02-04-21-00",
-                "place": "Zorlu PSM / İstanbul"
+                "place": "Zorlu PSM / İstanbul",
+                "date": "2020-02-04-21-00"
             },
             {
-                "date": "2020-02-05-21-00",
-                "place": "Zorlu PSM / İstanbul"
+                "place": "Zorlu PSM / İstanbul",
+                "date": "2020-02-05-21-00"
             },
             {
-                "date": "2020-02-06-21-00",
-                "place": "Zorlu PSM / İstanbul"
+                "place": "Zorlu PSM / İstanbul",
+                "date": "2020-02-06-21-00"
             },
             {
-                "date": "2020-02-17-21-00",
-                "place": "Zorlu PSM / İstanbul"
+                "place": "Zorlu PSM / İstanbul",
+                "date": "2020-02-17-21-00"
             },
             {
-                "date": "2020-02-18-21-00",
-                "place": "Zorlu PSM / İstanbul"
+                "place": "Zorlu PSM / İstanbul",
+                "date": "2020-02-18-21-00"
             },
             {
-                "date": "2020-02-19-21-00",
-                "place": "Zorlu PSM / İstanbul"
+                "place": "Zorlu PSM / İstanbul",
+                "date": "2020-02-19-21-00"
             },
             {
-                "date": "2020-03-01-19-00",
-                "place": "Zorlu PSM / İstanbul"
+                "place": "Zorlu PSM / İstanbul",
+                "date": "2020-03-01-19-00"
             },
             {
-                "date": "2020-03-02-21-00",
-                "place": "Zorlu PSM / İstanbul"
+                "place": "Zorlu PSM / İstanbul",
+                "date": "2020-03-02-21-00"
             },
             {
-                "date": "2020-03-03-21-00",
-                "place": "Zorlu PSM / İstanbul"
+                "place": "Zorlu PSM / İstanbul",
+                "date": "2020-03-03-21-00"
             },
             {
-                "date": "2020-03-23-21-00",
-                "place": "Zorlu PSM / İstanbul"
+                "place": "Zorlu PSM / İstanbul",
+                "date": "2020-03-23-21-00"
             },
             {
-                "date": "2020-03-24-21-00",
-                "place": "Zorlu PSM / İstanbul"
+                "place": "Zorlu PSM / İstanbul",
+                "date": "2020-03-24-21-00"
             },
             {
-                "date": "2020-04-21-21-00",
-                "place": "Zorlu PSM / İstanbul"
+                "place": "Zorlu PSM / İstanbul",
+                "date": "2020-04-21-21-00"
             },
             {
-                "date": "2020-04-22-21-00",
-                "place": "Zorlu PSM / İstanbul"
+                "place": "Zorlu PSM / İstanbul",
+                "date": "2020-04-22-21-00"
             },
             {
-                "date": "2020-05-04-21-00",
-                "place": "Zorlu PSM / İstanbul"
+                "place": "Zorlu PSM / İstanbul",
+                "date": "2020-05-04-21-00"
             },
             {
-                "date": "2020-05-05-21-00",
-                "place": "Zorlu PSM / İstanbul"
+                "place": "Zorlu PSM / İstanbul",
+                "date": "2020-05-05-21-00"
             },
             {
-                "date": "2020-05-06-21-00",
-                "place": "Zorlu PSM / İstanbul"
+                "place": "Zorlu PSM / İstanbul",
+                "date": "2020-05-06-21-00"
             },
             {
-                "date": "2020-02-10-21-00",
-                "place": "Türker İnanoğlu Maslak Show Center / İstanbul"
+                "place": "Türker İnanoğlu Maslak Show Center / İstanbul",
+                "date": "2020-02-10-21-00"
             },
             {
-                "date": "2020-02-11-21-00",
-                "place": "Türker İnanoğlu Maslak Show Center / İstanbul"
+                "place": "Türker İnanoğlu Maslak Show Center / İstanbul",
+                "date": "2020-02-11-21-00"
             },
             {
-                "date": "2020-02-12-21-00",
-                "place": "Türker İnanoğlu Maslak Show Center / İstanbul"
+                "place": "Türker İnanoğlu Maslak Show Center / İstanbul",
+                "date": "2020-02-12-21-00"
             },
             {
-                "date": "2020-02-14-20-30",
-                "place": "DasDas Sahne / İstanbul"
+                "place": "DasDas Sahne / İstanbul",
+                "date": "2020-02-14-20-30"
             },
             {
-                "date": "2020-02-25-21-00",
-                "place": "Türker İnanoğlu Maslak Show Center / İstanbul"
+                "place": "Türker İnanoğlu Maslak Show Center / İstanbul",
+                "date": "2020-02-25-21-00"
             },
             {
-                "date": "2020-02-26-21-00",
-                "place": "Türker İnanoğlu Maslak Show Center / İstanbul"
+                "place": "Türker İnanoğlu Maslak Show Center / İstanbul",
+                "date": "2020-02-26-21-00"
             },
             {
-                "date": "2020-03-05-21-00",
-                "place": "Bostancı Gösteri Merkezi / İstanbul"
+                "place": "Bostancı Gösteri Merkezi / İstanbul",
+                "date": "2020-03-05-21-00"
             },
             {
-                "date": "2020-03-09-21-00",
-                "place": "Bostancı Gösteri Merkezi / İstanbul"
+                "place": "Bostancı Gösteri Merkezi / İstanbul",
+                "date": "2020-03-09-21-00"
             },
             {
-                "date": "2020-03-10-21-00",
-                "place": "Bostancı Gösteri Merkezi / İstanbul"
+                "place": "Bostancı Gösteri Merkezi / İstanbul",
+                "date": "2020-03-10-21-00"
             },
             {
-                "date": "2020-04-26-21-00",
-                "place": "Bostancı Gösteri Merkezi / İstanbul"
+                "place": "Bostancı Gösteri Merkezi / İstanbul",
+                "date": "2020-04-26-21-00"
             }
         ],
         "url": "https://tiyatrolar.com.tr/tiyatro/cmylmz-diamond-elite-platinum-plus"
@@ -271,48 +250,48 @@
     {
         "sessions": [
             {
-                "date": "2020-01-15-20-30",
-                "place": "DasDas Sahne / İstanbul"
+                "place": "DasDas Sahne / İstanbul",
+                "date": "2020-01-15-20-30"
             },
             {
-                "date": "2020-01-29-20-30",
-                "place": "Beylikdüzü Atatürk Kültür ve Sanat Merkezi / İstanbul"
+                "place": "Beylikdüzü Atatürk Kültür ve Sanat Merkezi / İstanbul",
+                "date": "2020-01-29-20-30"
             },
             {
-                "date": "2020-01-30-20-30",
-                "place": "Beylikdüzü Atatürk Kültür ve Sanat Merkezi / İstanbul"
+                "place": "Beylikdüzü Atatürk Kültür ve Sanat Merkezi / İstanbul",
+                "date": "2020-01-30-20-30"
             },
             {
-                "date": "2020-01-27-20-30",
-                "place": "DasDas Sahne / İstanbul"
+                "place": "DasDas Sahne / İstanbul",
+                "date": "2020-01-27-20-30"
             },
             {
-                "date": "2020-02-03-20-30",
-                "place": "DasDas Sahne / İstanbul"
+                "place": "DasDas Sahne / İstanbul",
+                "date": "2020-02-03-20-30"
             },
             {
-                "date": "2020-02-04-20-30",
-                "place": "DasDas Sahne / İstanbul"
+                "place": "DasDas Sahne / İstanbul",
+                "date": "2020-02-04-20-30"
             },
             {
-                "date": "2020-02-10-20-30",
-                "place": "Beylikdüzü Atatürk Kültür ve Sanat Merkezi / İstanbul"
+                "place": "Beylikdüzü Atatürk Kültür ve Sanat Merkezi / İstanbul",
+                "date": "2020-02-10-20-30"
             },
             {
-                "date": "2020-02-11-20-30",
-                "place": "Beylikdüzü Atatürk Kültür ve Sanat Merkezi / İstanbul"
+                "place": "Beylikdüzü Atatürk Kültür ve Sanat Merkezi / İstanbul",
+                "date": "2020-02-11-20-30"
             },
             {
-                "date": "2020-02-17-20-30",
-                "place": "DasDas Sahne / İstanbul"
+                "place": "DasDas Sahne / İstanbul",
+                "date": "2020-02-17-20-30"
             },
             {
-                "date": "2020-02-18-20-30",
-                "place": "DasDas Sahne / İstanbul"
+                "place": "DasDas Sahne / İstanbul",
+                "date": "2020-02-18-20-30"
             },
             {
-                "date": "2020-02-19-20-30",
-                "place": "DasDas Sahne / İstanbul"
+                "place": "DasDas Sahne / İstanbul",
+                "date": "2020-02-19-20-30"
             }
         ],
         "url": "https://tiyatrolar.com.tr/tiyatro/zengin-mutfagi-1"
@@ -320,44 +299,44 @@
     {
         "sessions": [
             {
-                "date": "2020-01-21-21-00",
-                "place": "Zorlu PSM / İstanbul"
+                "place": "Zorlu PSM / İstanbul",
+                "date": "2020-01-21-21-00"
             },
             {
-                "date": "2020-02-01-21-00",
-                "place": "Zorlu PSM / İstanbul"
+                "place": "Zorlu PSM / İstanbul",
+                "date": "2020-02-01-21-00"
             },
             {
-                "date": "2020-02-02-16-00",
-                "place": "Zorlu PSM / İstanbul"
+                "place": "Zorlu PSM / İstanbul",
+                "date": "2020-02-02-16-00"
             },
             {
-                "date": "2020-03-12-21-00",
-                "place": "Zorlu PSM / İstanbul"
+                "place": "Zorlu PSM / İstanbul",
+                "date": "2020-03-12-21-00"
             },
             {
-                "date": "2020-03-13-21-00",
-                "place": "Zorlu PSM / İstanbul"
+                "place": "Zorlu PSM / İstanbul",
+                "date": "2020-03-13-21-00"
             },
             {
-                "date": "2020-03-26-21-00",
-                "place": "Zorlu PSM / İstanbul"
+                "place": "Zorlu PSM / İstanbul",
+                "date": "2020-03-26-21-00"
             },
             {
-                "date": "2020-04-05-20-00",
-                "place": "Zorlu PSM / İstanbul"
+                "place": "Zorlu PSM / İstanbul",
+                "date": "2020-04-05-20-00"
             },
             {
-                "date": "2020-04-19-20-00",
-                "place": "Zorlu PSM / İstanbul"
+                "place": "Zorlu PSM / İstanbul",
+                "date": "2020-04-19-20-00"
             },
             {
-                "date": "2020-04-25-21-00",
-                "place": "Zorlu PSM / İstanbul"
+                "place": "Zorlu PSM / İstanbul",
+                "date": "2020-04-25-21-00"
             },
             {
-                "date": "2020-04-26-16-00",
-                "place": "Zorlu PSM / İstanbul"
+                "place": "Zorlu PSM / İstanbul",
+                "date": "2020-04-26-16-00"
             }
         ],
         "url": "https://tiyatrolar.com.tr/tiyatro/alice-muzikali"
@@ -365,16 +344,16 @@
     {
         "sessions": [
             {
-                "date": "2020-01-23-19-30",
-                "place": "Hoca Ahmet Yesevi Kültür Merkezi / İstanbul"
+                "place": "Hoca Ahmet Yesevi Kültür Merkezi / İstanbul",
+                "date": "2020-01-23-19-30"
             },
             {
-                "date": "2020-01-24-19-30",
-                "place": "Hoca Ahmet Yesevi Kültür Merkezi / İstanbul"
+                "place": "Hoca Ahmet Yesevi Kültür Merkezi / İstanbul",
+                "date": "2020-01-24-19-30"
             },
             {
-                "date": "2020-01-25-19-30",
-                "place": "Hoca Ahmet Yesevi Kültür Merkezi / İstanbul"
+                "place": "Hoca Ahmet Yesevi Kültür Merkezi / İstanbul",
+                "date": "2020-01-25-19-30"
             }
         ],
         "url": "https://tiyatrolar.com.tr/tiyatro/on-iki-ofkeli-adam"
@@ -382,12 +361,12 @@
     {
         "sessions": [
             {
-                "date": "2020-01-22-20-30",
-                "place": "Tatavla Sahnesi / İstanbul"
+                "place": "Tatavla Sahnesi / İstanbul",
+                "date": "2020-01-22-20-30"
             },
             {
-                "date": "2020-02-05-20-30",
-                "place": "Tatavla Sahnesi / İstanbul"
+                "place": "Tatavla Sahnesi / İstanbul",
+                "date": "2020-02-05-20-30"
             }
         ],
         "url": "https://tiyatrolar.com.tr/tiyatro/bebeklerin-ulusu-yok"
@@ -395,24 +374,24 @@
     {
         "sessions": [
             {
-                "date": "2020-01-23-20-00",
-                "place": "Ankara Sanat Tiyatrosu / Ankara"
+                "place": "Ankara Sanat Tiyatrosu / Ankara",
+                "date": "2020-01-23-20-00"
             },
             {
-                "date": "2020-02-11-20-30",
-                "place": "Moda Sahnesi / İstanbul"
+                "place": "Moda Sahnesi / İstanbul",
+                "date": "2020-02-11-20-30"
             },
             {
-                "date": "2020-02-28-20-30",
-                "place": "Kadıköy Boa Sahne / İstanbul"
+                "place": "Kadıköy Boa Sahne / İstanbul",
+                "date": "2020-02-28-20-30"
             },
             {
-                "date": "2020-01-31-20-30",
-                "place": "Kadıköy Boa Sahne / İstanbul"
+                "place": "Kadıköy Boa Sahne / İstanbul",
+                "date": "2020-01-31-20-30"
             },
             {
-                "date": "2020-02-29-20-30",
-                "place": "Kumbaracı50 / İstanbul"
+                "place": "Kumbaracı50 / İstanbul",
+                "date": "2020-02-29-20-30"
             }
         ],
         "url": "https://tiyatrolar.com.tr/tiyatro/tirnak-icinde-hizmetciler"
@@ -424,60 +403,60 @@
     {
         "sessions": [
             {
-                "date": "2020-01-19-19-00",
-                "place": "Caddebostan Kültür Merkezi / İstanbul"
+                "place": "Caddebostan Kültür Merkezi / İstanbul",
+                "date": "2020-01-19-19-00"
             },
             {
-                "date": "2020-01-20-20-00",
-                "place": "Nilüfer Sahnesi / Bursa"
+                "place": "Nilüfer Sahnesi / Bursa",
+                "date": "2020-01-20-20-00"
             },
             {
-                "date": "2020-01-21-20-00",
-                "place": "Nilüfer Sahnesi / Bursa"
+                "place": "Nilüfer Sahnesi / Bursa",
+                "date": "2020-01-21-20-00"
             },
             {
-                "date": "2020-01-23-20-00",
-                "place": "MEB Şura Salonu / Ankara"
+                "place": "MEB Şura Salonu / Ankara",
+                "date": "2020-01-23-20-00"
             },
             {
-                "date": "2020-02-01-20-00",
-                "place": "Adana Büyükşehir Belediyesi Tiyatro Salonu / Adana"
+                "place": "Adana Büyükşehir Belediyesi Tiyatro Salonu / Adana",
+                "date": "2020-02-01-20-00"
             },
             {
-                "date": "2020-02-08-20-30",
-                "place": "Bostanlı Suat Taşer Tiyatrosu / İzmir"
+                "place": "Bostanlı Suat Taşer Tiyatrosu / İzmir",
+                "date": "2020-02-08-20-30"
             },
             {
-                "date": "2020-02-09-18-30",
-                "place": "İzmir AKM Tiyatro Salonu / İzmir"
+                "place": "İzmir AKM Tiyatro Salonu / İzmir",
+                "date": "2020-02-09-18-30"
             },
             {
-                "date": "2020-02-19-20-30",
-                "place": "Kadıköy Halk Eğitim Merkezi / İstanbul"
+                "place": "Kadıköy Halk Eğitim Merkezi / İstanbul",
+                "date": "2020-02-19-20-30"
             },
             {
-                "date": "2020-02-20-20-30",
-                "place": "Trump Kültür ve Gösteri Merkezi / İstanbul"
+                "place": "Trump Kültür ve Gösteri Merkezi / İstanbul",
+                "date": "2020-02-20-20-30"
             },
             {
-                "date": "2020-03-21-20-30",
-                "place": "Beylikdüzü Atatürk Kültür ve Sanat Merkezi / İstanbul"
+                "place": "Beylikdüzü Atatürk Kültür ve Sanat Merkezi / İstanbul",
+                "date": "2020-03-21-20-30"
             },
             {
-                "date": "2020-03-30-20-00",
-                "place": "Osman Hamdi Bey Kültür Merkezi / Kocaeli"
+                "place": "Osman Hamdi Bey Kültür Merkezi / Kocaeli",
+                "date": "2020-03-30-20-00"
             },
             {
-                "date": "2020-01-28-20-30",
-                "place": "Kocaeli Sabancı Kültür Merkezi / Kocaeli"
+                "place": "Kocaeli Sabancı Kültür Merkezi / Kocaeli",
+                "date": "2020-01-28-20-30"
             },
             {
-                "date": "2020-02-16-19-00",
-                "place": "Mall of İstanbul MOİ Sahne / İstanbul"
+                "place": "Mall of İstanbul MOİ Sahne / İstanbul",
+                "date": "2020-02-16-19-00"
             },
             {
-                "date": "2020-03-31-20-30",
-                "place": "Trump Kültür ve Gösteri Merkezi / İstanbul"
+                "place": "Trump Kültür ve Gösteri Merkezi / İstanbul",
+                "date": "2020-03-31-20-30"
             }
         ],
         "url": "https://tiyatrolar.com.tr/tiyatro/ikinin-biri-1"
@@ -489,24 +468,24 @@
     {
         "sessions": [
             {
-                "date": "2020-01-29-20-30",
-                "place": "Kadıköy Boa Sahne / İstanbul"
+                "place": "Kadıköy Boa Sahne / İstanbul",
+                "date": "2020-01-29-20-30"
             },
             {
-                "date": "2020-02-17-20-30",
-                "place": "Kadıköy Boa Sahne / İstanbul"
+                "place": "Kadıköy Boa Sahne / İstanbul",
+                "date": "2020-02-17-20-30"
             },
             {
-                "date": "2020-02-24-20-30",
-                "place": "Uniq Hall / İstanbul"
+                "place": "Uniq Hall / İstanbul",
+                "date": "2020-02-24-20-30"
             },
             {
-                "date": "2020-02-25-20-30",
-                "place": "Kadıköy Boa Sahne / İstanbul"
+                "place": "Kadıköy Boa Sahne / İstanbul",
+                "date": "2020-02-25-20-30"
             },
             {
-                "date": "2020-01-21-20-30",
-                "place": "Zorlu PSM / İstanbul"
+                "place": "Zorlu PSM / İstanbul",
+                "date": "2020-01-21-20-30"
             }
         ],
         "url": "https://tiyatrolar.com.tr/tiyatro/red-light-kisi"
@@ -514,20 +493,20 @@
     {
         "sessions": [
             {
-                "date": "2020-01-22-20-30",
-                "place": "Kadıköy Boa Sahne / İstanbul"
+                "place": "Kadıköy Boa Sahne / İstanbul",
+                "date": "2020-01-22-20-30"
             },
             {
-                "date": "2020-02-23-20-30",
-                "place": "Kadıköy Boa Sahne / İstanbul"
+                "place": "Kadıköy Boa Sahne / İstanbul",
+                "date": "2020-02-23-20-30"
             },
             {
-                "date": "2020-02-10-20-30",
-                "place": "Kadıköy Boa Sahne / İstanbul"
+                "place": "Kadıköy Boa Sahne / İstanbul",
+                "date": "2020-02-10-20-30"
             },
             {
-                "date": "2020-02-28-20-30",
-                "place": "Kültüral Performing Arts / İstanbul"
+                "place": "Kültüral Performing Arts / İstanbul",
+                "date": "2020-02-28-20-30"
             }
         ],
         "url": "https://tiyatrolar.com.tr/tiyatro/anne-yoksa-evde-kimse-yoktur"
@@ -535,28 +514,28 @@
     {
         "sessions": [
             {
-                "date": "2020-01-24-20-30",
-                "place": "Kadıköy Boa Sahne / İstanbul"
+                "place": "Kadıköy Boa Sahne / İstanbul",
+                "date": "2020-01-24-20-30"
             },
             {
-                "date": "2020-01-31-20-30",
-                "place": "BlackOut Şişli Sahnesi / İstanbul"
+                "place": "BlackOut Şişli Sahnesi / İstanbul",
+                "date": "2020-01-31-20-30"
             },
             {
-                "date": "2020-02-11-20-30",
-                "place": "Kadıköy Boa Sahne / İstanbul"
+                "place": "Kadıköy Boa Sahne / İstanbul",
+                "date": "2020-02-11-20-30"
             },
             {
-                "date": "2020-02-23-16-00",
-                "place": "Kadıköy Boa Sahne / İstanbul"
+                "place": "Kadıköy Boa Sahne / İstanbul",
+                "date": "2020-02-23-16-00"
             },
             {
-                "date": "2020-02-06-20-30",
-                "place": "BlackOut Şişli Sahnesi / İstanbul"
+                "place": "BlackOut Şişli Sahnesi / İstanbul",
+                "date": "2020-02-06-20-30"
             },
             {
-                "date": "2020-02-26-20-30",
-                "place": "Kumbaracı50 / İstanbul"
+                "place": "Kumbaracı50 / İstanbul",
+                "date": "2020-02-26-20-30"
             }
         ],
         "url": "https://tiyatrolar.com.tr/tiyatro/eylul"
@@ -564,16 +543,16 @@
     {
         "sessions": [
             {
-                "date": "2020-02-09-20-30",
-                "place": "Entropi Sahne / İstanbul"
+                "place": "Entropi Sahne / İstanbul",
+                "date": "2020-02-09-20-30"
             },
             {
-                "date": "2020-02-23-20-30",
-                "place": "Entropi Sahne / İstanbul"
+                "place": "Entropi Sahne / İstanbul",
+                "date": "2020-02-23-20-30"
             },
             {
-                "date": "2020-01-22-20-30",
-                "place": "Entropi Sahne / İstanbul"
+                "place": "Entropi Sahne / İstanbul",
+                "date": "2020-01-22-20-30"
             }
         ],
         "url": "https://tiyatrolar.com.tr/tiyatro/kayitsiz"
@@ -581,12 +560,12 @@
     {
         "sessions": [
             {
-                "date": "2020-01-26-16-00",
-                "place": "Zorlu PSM / İstanbul"
+                "place": "Zorlu PSM / İstanbul",
+                "date": "2020-01-26-16-00"
             },
             {
-                "date": "2020-01-26-20-30",
-                "place": "Zorlu PSM / İstanbul"
+                "place": "Zorlu PSM / İstanbul",
+                "date": "2020-01-26-20-30"
             }
         ],
         "url": "https://tiyatrolar.com.tr/tiyatro/gercek-1"
@@ -594,40 +573,40 @@
     {
         "sessions": [
             {
-                "date": "2020-01-25-20-30",
-                "place": "Caddebostan Kültür Merkezi / İstanbul"
+                "place": "Caddebostan Kültür Merkezi / İstanbul",
+                "date": "2020-01-25-20-30"
             },
             {
-                "date": "2020-01-26-18-00",
-                "place": "Kenter Tiyatrosu / İstanbul"
+                "place": "Kenter Tiyatrosu / İstanbul",
+                "date": "2020-01-26-18-00"
             },
             {
-                "date": "2020-02-05-20-00",
-                "place": "Duru Ataşehir / İstanbul"
+                "place": "Duru Ataşehir / İstanbul",
+                "date": "2020-02-05-20-00"
             },
             {
-                "date": "2020-02-13-20-00",
-                "place": "Nazım Hikmet Kültürevi / Bursa"
+                "place": "Nazım Hikmet Kültürevi / Bursa",
+                "date": "2020-02-13-20-00"
             },
             {
-                "date": "2020-02-16-20-00",
-                "place": "Yenişehir Belediyesi Atatürk Kültür Merkezi / Mersin(İçel)"
+                "place": "Yenişehir Belediyesi Atatürk Kültür Merkezi / Mersin(İçel)",
+                "date": "2020-02-16-20-00"
             },
             {
-                "date": "2020-02-17-20-00",
-                "place": "Gaziantep Büyükşehir Belediyesi Şehir Tiyatrosu Onat Kutlar Sahnesi / Gaziantep"
+                "place": "Gaziantep Büyükşehir Belediyesi Şehir Tiyatrosu Onat Kutlar Sahnesi / Gaziantep",
+                "date": "2020-02-17-20-00"
             },
             {
-                "date": "2020-02-20-20-00",
-                "place": "Adana Büyükşehir Belediyesi Tiyatro Salonu / Adana"
+                "place": "Adana Büyükşehir Belediyesi Tiyatro Salonu / Adana",
+                "date": "2020-02-20-20-00"
             },
             {
-                "date": "2020-02-23-19-00",
-                "place": "Trump Kültür ve Gösteri Merkezi / İstanbul"
+                "place": "Trump Kültür ve Gösteri Merkezi / İstanbul",
+                "date": "2020-02-23-19-00"
             },
             {
-                "date": "2020-02-27-20-30",
-                "place": "Kozyatağı Kültür Merkezi / İstanbul"
+                "place": "Kozyatağı Kültür Merkezi / İstanbul",
+                "date": "2020-02-27-20-30"
             }
         ],
         "url": "https://tiyatrolar.com.tr/tiyatro/guneyli-bayan"
@@ -635,20 +614,20 @@
     {
         "sessions": [
             {
-                "date": "2020-02-05-20-30",
-                "place": "Kadıköy Boa Sahne / İstanbul"
+                "place": "Kadıköy Boa Sahne / İstanbul",
+                "date": "2020-02-05-20-30"
             },
             {
-                "date": "2020-02-11-20-30",
-                "place": "BlackOut Şişli Sahnesi / İstanbul"
+                "place": "BlackOut Şişli Sahnesi / İstanbul",
+                "date": "2020-02-11-20-30"
             },
             {
-                "date": "2020-02-18-21-00",
-                "place": "DasDas Sahne / İstanbul"
+                "place": "DasDas Sahne / İstanbul",
+                "date": "2020-02-18-21-00"
             },
             {
-                "date": "2020-02-25-20-30",
-                "place": "BlackOut Şişli Sahnesi / İstanbul"
+                "place": "BlackOut Şişli Sahnesi / İstanbul",
+                "date": "2020-02-25-20-30"
             }
         ],
         "url": "https://tiyatrolar.com.tr/tiyatro/orijinal-gunahlar"
@@ -656,20 +635,20 @@
     {
         "sessions": [
             {
-                "date": "2020-02-05-20-30",
-                "place": "Kadıköy Boa Sahne / İstanbul"
+                "place": "Kadıköy Boa Sahne / İstanbul",
+                "date": "2020-02-05-20-30"
             },
             {
-                "date": "2020-02-11-20-30",
-                "place": "BlackOut Şişli Sahnesi / İstanbul"
+                "place": "BlackOut Şişli Sahnesi / İstanbul",
+                "date": "2020-02-11-20-30"
             },
             {
-                "date": "2020-02-18-21-00",
-                "place": "DasDas Sahne / İstanbul"
+                "place": "DasDas Sahne / İstanbul",
+                "date": "2020-02-18-21-00"
             },
             {
-                "date": "2020-02-25-20-30",
-                "place": "BlackOut Şişli Sahnesi / İstanbul"
+                "place": "BlackOut Şişli Sahnesi / İstanbul",
+                "date": "2020-02-25-20-30"
             }
         ],
         "url": "https://tiyatrolar.com.tr/tiyatro/orijinal-gunahlar"
@@ -677,16 +656,16 @@
     {
         "sessions": [
             {
-                "date": "2020-02-06-20-30",
-                "place": "Trump Kültür ve Gösteri Merkezi / İstanbul"
+                "place": "Trump Kültür ve Gösteri Merkezi / İstanbul",
+                "date": "2020-02-06-20-30"
             },
             {
-                "date": "2020-02-09-19-00",
-                "place": "Torium Sahne / İstanbul"
+                "place": "Torium Sahne / İstanbul",
+                "date": "2020-02-09-19-00"
             },
             {
-                "date": "2020-02-16-19-00",
-                "place": "Panora Sanat Merkezi / Ankara"
+                "place": "Panora Sanat Merkezi / Ankara",
+                "date": "2020-02-16-19-00"
             }
         ],
         "url": "https://tiyatrolar.com.tr/tiyatro/kadin-kafasi"
@@ -694,12 +673,12 @@
     {
         "sessions": [
             {
-                "date": "2020-02-09-20-30",
-                "place": "Entropi Sahne / İstanbul"
+                "place": "Entropi Sahne / İstanbul",
+                "date": "2020-02-09-20-30"
             },
             {
-                "date": "2020-02-23-20-30",
-                "place": "Entropi Sahne / İstanbul"
+                "place": "Entropi Sahne / İstanbul",
+                "date": "2020-02-23-20-30"
             }
         ],
         "url": "https://tiyatrolar.com.tr/tiyatro/kayitsiz"
@@ -707,40 +686,40 @@
     {
         "sessions": [
             {
-                "date": "2020-01-30-20-30",
-                "place": "Uniq Hall / İstanbul"
+                "place": "Uniq Hall / İstanbul",
+                "date": "2020-01-30-20-30"
             },
             {
-                "date": "2020-02-04-20-30",
-                "place": "Caddebostan Kültür Merkezi / İstanbul"
+                "place": "Caddebostan Kültür Merkezi / İstanbul",
+                "date": "2020-02-04-20-30"
             },
             {
-                "date": "2020-02-05-20-30",
-                "place": "Yunus Emre Kültür Merkezi / İstanbul"
+                "place": "Yunus Emre Kültür Merkezi / İstanbul",
+                "date": "2020-02-05-20-30"
             },
             {
-                "date": "2020-02-10-20-00",
-                "place": "Kocaeli Sabancı Kültür Merkezi / Kocaeli"
+                "place": "Kocaeli Sabancı Kültür Merkezi / Kocaeli",
+                "date": "2020-02-10-20-00"
             },
             {
-                "date": "2020-02-16-19-00",
-                "place": "Kenter Tiyatrosu / İstanbul"
+                "place": "Kenter Tiyatrosu / İstanbul",
+                "date": "2020-02-16-19-00"
             },
             {
-                "date": "2020-02-24-20-00",
-                "place": "Duru Ataşehir / İstanbul"
+                "place": "Duru Ataşehir / İstanbul",
+                "date": "2020-02-24-20-00"
             },
             {
-                "date": "2020-02-25-20-00",
-                "place": "Nazım Hikmet Kültür Merkezi / Ankara"
+                "place": "Nazım Hikmet Kültür Merkezi / Ankara",
+                "date": "2020-02-25-20-00"
             },
             {
-                "date": "2020-02-26-20-00",
-                "place": "Nazım Hikmet Kültür Merkezi / Ankara"
+                "place": "Nazım Hikmet Kültür Merkezi / Ankara",
+                "date": "2020-02-26-20-00"
             },
             {
-                "date": "2020-02-27-20-30",
-                "place": "Narlıdere Atatürk Kültür Merkezi / İzmir"
+                "place": "Narlıdere Atatürk Kültür Merkezi / İzmir",
+                "date": "2020-02-27-20-30"
             }
         ],
         "url": "https://tiyatrolar.com.tr/tiyatro/tarla-kusuydu-juliet-3"
@@ -748,28 +727,28 @@
     {
         "sessions": [
             {
-                "date": "2020-01-25-20-30",
-                "place": "Asmalı Sahne / İstanbul"
+                "place": "Asmalı Sahne / İstanbul",
+                "date": "2020-01-25-20-30"
             },
             {
-                "date": "2020-01-29-20-30",
-                "place": "Asmalı Sahne / İstanbul"
+                "place": "Asmalı Sahne / İstanbul",
+                "date": "2020-01-29-20-30"
             },
             {
-                "date": "2020-02-08-20-30",
-                "place": "Asmalı Sahne / İstanbul"
+                "place": "Asmalı Sahne / İstanbul",
+                "date": "2020-02-08-20-30"
             },
             {
-                "date": "2020-02-12-20-30",
-                "place": "Asmalı Sahne / İstanbul"
+                "place": "Asmalı Sahne / İstanbul",
+                "date": "2020-02-12-20-30"
             },
             {
-                "date": "2020-02-22-20-30",
-                "place": "Asmalı Sahne / İstanbul"
+                "place": "Asmalı Sahne / İstanbul",
+                "date": "2020-02-22-20-30"
             },
             {
-                "date": "2020-02-26-20-30",
-                "place": "Asmalı Sahne / İstanbul"
+                "place": "Asmalı Sahne / İstanbul",
+                "date": "2020-02-26-20-30"
             }
         ],
         "url": "https://tiyatrolar.com.tr/tiyatro/ayni-mezarin-oluleri-1"
@@ -780,93 +759,105 @@
     },
     {
         "sessions": [],
-        "url": "https://tiyatrolar.com.tr/tiyatro/kozmik-yaralar"
+        "url": "https://tiyatrolar.com.tr/tiyatro/once-bir-bosluk-oldu-kalp-gidince-ama-simdi-iyi"
+    },
+    {
+        "sessions": [],
+        "url": "https://tiyatrolar.com.tr/tiyatro/sessizlik"
+    },
+    {
+        "sessions": [],
+        "url": "https://tiyatrolar.com.tr/tiyatro/teror"
+    },
+    {
+        "sessions": [],
+        "url": "https://tiyatrolar.com.tr/tiyatro/dunyada-karsilasmis-gibi"
     },
     {
         "sessions": [
             {
-                "date": "2020-01-26-18-00",
-                "place": "Trump Kültür ve Gösteri Merkezi / İstanbul"
+                "place": "Trump Kültür ve Gösteri Merkezi / İstanbul",
+                "date": "2020-01-26-18-00"
             },
             {
-                "date": "2020-01-31-20-30",
-                "place": "Kadıköy Halk Eğitim Merkezi / İstanbul"
+                "place": "Kadıköy Halk Eğitim Merkezi / İstanbul",
+                "date": "2020-01-31-20-30"
             },
             {
-                "date": "2020-02-01-20-30",
-                "place": "Trump Kültür ve Gösteri Merkezi / İstanbul"
+                "place": "Trump Kültür ve Gösteri Merkezi / İstanbul",
+                "date": "2020-02-01-20-30"
             },
             {
-                "date": "2020-02-03-20-30",
-                "place": "Yunus Emre Kültür Merkezi / İstanbul"
+                "place": "Yunus Emre Kültür Merkezi / İstanbul",
+                "date": "2020-02-03-20-30"
             },
             {
-                "date": "2020-02-04-20-00",
-                "place": "Eskişehir Zübeyde Hanım Kültür Merkezi / Eskişehir"
+                "place": "Eskişehir Zübeyde Hanım Kültür Merkezi / Eskişehir",
+                "date": "2020-02-04-20-00"
             },
             {
-                "date": "2020-02-05-20-00",
-                "place": "MEB Şura Salonu / Ankara"
+                "place": "MEB Şura Salonu / Ankara",
+                "date": "2020-02-05-20-00"
             },
             {
-                "date": "2020-02-06-20-00",
-                "place": "MEB Şura Salonu / Ankara"
+                "place": "MEB Şura Salonu / Ankara",
+                "date": "2020-02-06-20-00"
             },
             {
-                "date": "2020-02-08-20-00",
-                "place": "01 Burda PGM / Adana"
+                "place": "01 Burda PGM / Adana",
+                "date": "2020-02-08-20-00"
             },
             {
-                "date": "2020-02-09-20-00",
-                "place": "Konya Devlet Tiyatrosu Sahnesi / Konya"
+                "place": "Konya Devlet Tiyatrosu Sahnesi / Konya",
+                "date": "2020-02-09-20-00"
             },
             {
-                "date": "2020-02-15-20-30",
-                "place": "Bostanlı Suat Taşer Tiyatrosu / İzmir"
+                "place": "Bostanlı Suat Taşer Tiyatrosu / İzmir",
+                "date": "2020-02-15-20-30"
             },
             {
-                "date": "2020-02-16-16-00",
-                "place": "İzmir AKM Tiyatro Salonu / İzmir"
+                "place": "İzmir AKM Tiyatro Salonu / İzmir",
+                "date": "2020-02-16-16-00"
             },
             {
-                "date": "2020-02-17-20-30",
-                "place": "İzmir AKM Tiyatro Salonu / İzmir"
+                "place": "İzmir AKM Tiyatro Salonu / İzmir",
+                "date": "2020-02-17-20-30"
             },
             {
-                "date": "2020-02-18-20-30",
-                "place": "Herodot Kültür Merkezi / Muğla"
+                "place": "Herodot Kültür Merkezi / Muğla",
+                "date": "2020-02-18-20-30"
             },
             {
-                "date": "2020-02-19-20-30",
-                "place": "Aydın Kültür Merkezi / Aydın"
+                "place": "Aydın Kültür Merkezi / Aydın",
+                "date": "2020-02-19-20-30"
             },
             {
-                "date": "2020-02-23-19-00",
-                "place": "Kozyatağı Kültür Merkezi / İstanbul"
+                "place": "Kozyatağı Kültür Merkezi / İstanbul",
+                "date": "2020-02-23-19-00"
             },
             {
-                "date": "2020-02-28-20-00",
-                "place": "Panora Sanat Merkezi / Ankara"
+                "place": "Panora Sanat Merkezi / Ankara",
+                "date": "2020-02-28-20-00"
             },
             {
-                "date": "2020-02-29-20-00",
-                "place": "Antalya Kültür Merkezi / Antalya"
+                "place": "Antalya Kültür Merkezi / Antalya",
+                "date": "2020-02-29-20-00"
             },
             {
-                "date": "2020-03-07-20-00",
-                "place": "Büyükçekmece Belediyesi Atatürk Kültür Merkezi / İstanbul"
+                "place": "Büyükçekmece Belediyesi Atatürk Kültür Merkezi / İstanbul",
+                "date": "2020-03-07-20-00"
             },
             {
-                "date": "2020-03-08-16-00",
-                "place": "Profilo Kültür Merkezi / İstanbul"
+                "place": "Profilo Kültür Merkezi / İstanbul",
+                "date": "2020-03-08-16-00"
             },
             {
-                "date": "2020-03-10-20-30",
-                "place": "Yunus Emre Kültür Merkezi / İstanbul"
+                "place": "Yunus Emre Kültür Merkezi / İstanbul",
+                "date": "2020-03-10-20-30"
             },
             {
-                "date": "2020-03-29-16-00",
-                "place": "Profilo Kültür Merkezi / İstanbul"
+                "place": "Profilo Kültür Merkezi / İstanbul",
+                "date": "2020-03-29-16-00"
             }
         ],
         "url": "https://tiyatrolar.com.tr/tiyatro/agaclar-ayakta-olur-1"
@@ -874,56 +865,56 @@
     {
         "sessions": [
             {
-                "date": "2020-01-27-20-30",
-                "place": "Uniq Hall / İstanbul"
+                "place": "Uniq Hall / İstanbul",
+                "date": "2020-01-27-20-30"
             },
             {
-                "date": "2020-02-01-20-30",
-                "place": "Uniq Hall / İstanbul"
+                "place": "Uniq Hall / İstanbul",
+                "date": "2020-02-01-20-30"
             },
             {
-                "date": "2020-02-02-19-30",
-                "place": "Uniq Hall / İstanbul"
+                "place": "Uniq Hall / İstanbul",
+                "date": "2020-02-02-19-30"
             },
             {
-                "date": "2020-02-03-20-30",
-                "place": "Uniq Hall / İstanbul"
+                "place": "Uniq Hall / İstanbul",
+                "date": "2020-02-03-20-30"
             },
             {
-                "date": "2020-02-24-20-30",
-                "place": "Uniq Hall / İstanbul"
+                "place": "Uniq Hall / İstanbul",
+                "date": "2020-02-24-20-30"
             },
             {
-                "date": "2020-02-25-20-30",
-                "place": "Uniq Hall / İstanbul"
+                "place": "Uniq Hall / İstanbul",
+                "date": "2020-02-25-20-30"
             },
             {
-                "date": "2020-02-26-20-30",
-                "place": "Uniq Hall / İstanbul"
+                "place": "Uniq Hall / İstanbul",
+                "date": "2020-02-26-20-30"
             },
             {
-                "date": "2020-03-09-20-30",
-                "place": "Uniq Hall / İstanbul"
+                "place": "Uniq Hall / İstanbul",
+                "date": "2020-03-09-20-30"
             },
             {
-                "date": "2020-03-10-20-30",
-                "place": "Uniq Hall / İstanbul"
+                "place": "Uniq Hall / İstanbul",
+                "date": "2020-03-10-20-30"
             },
             {
-                "date": "2020-03-11-20-30",
-                "place": "Uniq Hall / İstanbul"
+                "place": "Uniq Hall / İstanbul",
+                "date": "2020-03-11-20-30"
             },
             {
-                "date": "2020-03-28-20-30",
-                "place": "Uniq Hall / İstanbul"
+                "place": "Uniq Hall / İstanbul",
+                "date": "2020-03-28-20-30"
             },
             {
-                "date": "2020-03-29-19-30",
-                "place": "Uniq Hall / İstanbul"
+                "place": "Uniq Hall / İstanbul",
+                "date": "2020-03-29-19-30"
             },
             {
-                "date": "2020-03-30-20-30",
-                "place": "Uniq Hall / İstanbul"
+                "place": "Uniq Hall / İstanbul",
+                "date": "2020-03-30-20-30"
             }
         ],
         "url": "https://tiyatrolar.com.tr/tiyatro/amadeus-2"
@@ -931,20 +922,28 @@
     {
         "sessions": [
             {
-                "date": "2020-01-26-19-00",
-                "place": "Kadıköy Emek Tiyatrosu / İstanbul"
+                "place": "Kadıköy Emek Tiyatrosu / İstanbul",
+                "date": "2020-01-26-19-00"
             },
             {
-                "date": "2020-02-01-20-30",
-                "place": "Kadıköy Emek Tiyatrosu / İstanbul"
+                "place": "Kadıköy Emek Tiyatrosu / İstanbul",
+                "date": "2020-02-01-20-30"
             },
             {
-                "date": "2020-02-28-20-30",
-                "place": "Kadıköy Emek Tiyatrosu / İstanbul"
+                "place": "Kadıköy Emek Tiyatrosu / İstanbul",
+                "date": "2020-02-28-20-30"
             },
             {
-                "date": "2020-02-08-20-30",
-                "place": "Kadıköy Emek Tiyatrosu / İstanbul"
+                "place": "Kadıköy Emek Tiyatrosu / İstanbul",
+                "date": "2020-02-08-20-30"
+            },
+            {
+                "place": "Kadıköy Emek Tiyatrosu / İstanbul",
+                "date": "2020-03-02-20-30"
+            },
+            {
+                "place": "Kadıköy Emek Tiyatrosu / İstanbul",
+                "date": "2020-03-21-20-30"
             }
         ],
         "url": "https://tiyatrolar.com.tr/tiyatro/cadi-avi"

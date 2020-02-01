@@ -60,7 +60,11 @@ while True:
                 for tiyatrolar_session in tiyatrolar_sessions:
                     if tiyatrolar_session in event["sessions"]:
                         continue
-                    if tiyatrolar_session["place"] == "ONLINE SATIŞA KAPANDI":
+                    if "ONLINE SATIŞA KAPANDI" == tiyatrolar_session["place"]:
+                        continue
+                    if  "İPTAL" or "ERTELEME" in tiyatrolar_session["place"]:
+                        continue
+                    if  "BİLETLER TÜKENMİŞTİR!" == tiyatrolar_session["place"]:
                         continue
 
                     print("New session is found for {}".format(event["url"]))
