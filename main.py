@@ -62,7 +62,9 @@ while True:
                         continue
                     if "ONLINE SATIŞA KAPANDI" == tiyatrolar_session["place"]:
                         continue
-                    if  "İPTAL" or "ERTELEME" in tiyatrolar_session["place"]:
+                    if  "İPTAL" in tiyatrolar_session["place"]:
+                        continue
+                    if  "ERTELEME" in tiyatrolar_session["place"]:
                         continue
                     if  "BİLETLER TÜKENMİŞTİR!" == tiyatrolar_session["place"]:
                         continue

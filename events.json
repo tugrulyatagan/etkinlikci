@@ -1,5 +1,6 @@
 [
     {
+        "url": "https://tiyatrolar.com.tr/tiyatro/bir-baba-hamlet",
         "sessions": [
             {
                 "place": "Baba Sahne / İstanbul",
@@ -85,10 +86,10 @@
                 "place": "Kocaeli Sabancı Kültür Merkezi / Kocaeli",
                 "date": "2020-03-07-20-00"
             }
-        ],
-        "url": "https://tiyatrolar.com.tr/tiyatro/bir-baba-hamlet"
+        ]
     },
     {
+        "url": "https://tiyatrolar.com.tr/tiyatro/yutmak",
         "sessions": [
             {
                 "place": "BİLETLER TÜKENMİŞTİR!",
@@ -98,10 +99,10 @@
                 "place": "BİLETLER TÜKENMİŞTİR!",
                 "date": "2020-03-16-20-30"
             }
-        ],
-        "url": "https://tiyatrolar.com.tr/tiyatro/yutmak"
+        ]
     },
     {
+        "url": "https://tiyatrolar.com.tr/tiyatro/ata-demirer-gazinosu",
         "sessions": [
             {
                 "place": "Beşiktaş Kültür Merkezi / İstanbul",
@@ -130,11 +131,35 @@
             {
                 "place": "Atatürk Kongre Kültür Merkezi / Bursa",
                 "date": "2020-02-08-21-00"
+            },
+            {
+                "place": "Beşiktaş Kültür Merkezi / İstanbul",
+                "date": "2020-02-06-21-00"
+            },
+            {
+                "place": "Beşiktaş Kültür Merkezi / İstanbul",
+                "date": "2020-02-13-21-00"
+            },
+            {
+                "place": "Beşiktaş Kültür Merkezi / İstanbul",
+                "date": "2020-02-20-21-00"
+            },
+            {
+                "place": "Beşiktaş Kültür Merkezi / İstanbul",
+                "date": "2020-02-27-21-00"
+            },
+            {
+                "place": "Ahmed Adnan Saygun Sanat Merkezi / İzmir",
+                "date": "2020-02-29-21-00"
+            },
+            {
+                "place": "Bostancı Gösteri Merkezi / İstanbul",
+                "date": "2020-03-20-21-00"
             }
-        ],
-        "url": "https://tiyatrolar.com.tr/tiyatro/ata-demirer-gazinosu"
+        ]
     },
     {
+        "url": "https://tiyatrolar.com.tr/tiyatro/cmylmz-diamond-elite-platinum-plus",
         "sessions": [
             {
                 "place": "Zorlu PSM / İstanbul",
@@ -244,10 +269,10 @@
                 "place": "Bostancı Gösteri Merkezi / İstanbul",
                 "date": "2020-04-26-21-00"
             }
-        ],
-        "url": "https://tiyatrolar.com.tr/tiyatro/cmylmz-diamond-elite-platinum-plus"
+        ]
     },
     {
+        "url": "https://tiyatrolar.com.tr/tiyatro/zengin-mutfagi-1",
         "sessions": [
             {
                 "place": "DasDas Sahne / İstanbul",
@@ -293,10 +318,10 @@
                 "place": "DasDas Sahne / İstanbul",
                 "date": "2020-02-19-20-30"
             }
-        ],
-        "url": "https://tiyatrolar.com.tr/tiyatro/zengin-mutfagi-1"
+        ]
     },
     {
+        "url": "https://tiyatrolar.com.tr/tiyatro/alice-muzikali",
         "sessions": [
             {
                 "place": "Zorlu PSM / İstanbul",
@@ -338,10 +363,10 @@
                 "place": "Zorlu PSM / İstanbul",
                 "date": "2020-04-26-16-00"
             }
-        ],
-        "url": "https://tiyatrolar.com.tr/tiyatro/alice-muzikali"
+        ]
     },
     {
+        "url": "https://tiyatrolar.com.tr/tiyatro/on-iki-ofkeli-adam",
         "sessions": [
             {
                 "place": "Hoca Ahmet Yesevi Kültür Merkezi / İstanbul",
@@ -355,10 +380,10 @@
                 "place": "Hoca Ahmet Yesevi Kültür Merkezi / İstanbul",
                 "date": "2020-01-25-19-30"
             }
-        ],
-        "url": "https://tiyatrolar.com.tr/tiyatro/on-iki-ofkeli-adam"
+        ]
     },
     {
+        "url": "https://tiyatrolar.com.tr/tiyatro/bebeklerin-ulusu-yok",
         "sessions": [
             {
                 "place": "Tatavla Sahnesi / İstanbul",
@@ -368,10 +393,10 @@
                 "place": "Tatavla Sahnesi / İstanbul",
                 "date": "2020-02-05-20-30"
             }
-        ],
-        "url": "https://tiyatrolar.com.tr/tiyatro/bebeklerin-ulusu-yok"
+        ]
     },
     {
+        "url": "https://tiyatrolar.com.tr/tiyatro/tirnak-icinde-hizmetciler",
         "sessions": [
             {
                 "place": "Ankara Sanat Tiyatrosu / Ankara",
@@ -393,14 +418,14 @@
                 "place": "Kumbaracı50 / İstanbul",
                 "date": "2020-02-29-20-30"
             }
-        ],
-        "url": "https://tiyatrolar.com.tr/tiyatro/tirnak-icinde-hizmetciler"
+        ]
     },
     {
-        "sessions": [],
-        "url": "https://tiyatrolar.com.tr/tiyatro/cati"
+        "url": "https://tiyatrolar.com.tr/tiyatro/cati",
+        "sessions": []
     },
     {
+        "url": "https://tiyatrolar.com.tr/tiyatro/ikinin-biri-1",
         "sessions": [
             {
                 "place": "Caddebostan Kültür Merkezi / İstanbul",
@@ -458,14 +483,14 @@
                 "place": "Trump Kültür ve Gösteri Merkezi / İstanbul",
                 "date": "2020-03-31-20-30"
             }
-        ],
-        "url": "https://tiyatrolar.com.tr/tiyatro/ikinin-biri-1"
+        ]
     },
     {
-        "sessions": [],
-        "url": "https://tiyatrolar.com.tr/tiyatro/kizlar-ve-oglanlar"
+        "url": "https://tiyatrolar.com.tr/tiyatro/kizlar-ve-oglanlar",
+        "sessions": []
     },
     {
+        "url": "https://tiyatrolar.com.tr/tiyatro/red-light-kisi",
         "sessions": [
             {
                 "place": "Kadıköy Boa Sahne / İstanbul",
@@ -487,10 +512,10 @@
                 "place": "Zorlu PSM / İstanbul",
                 "date": "2020-01-21-20-30"
             }
-        ],
-        "url": "https://tiyatrolar.com.tr/tiyatro/red-light-kisi"
+        ]
     },
     {
+        "url": "https://tiyatrolar.com.tr/tiyatro/anne-yoksa-evde-kimse-yoktur",
         "sessions": [
             {
                 "place": "Kadıköy Boa Sahne / İstanbul",
@@ -508,10 +533,10 @@
                 "place": "Kültüral Performing Arts / İstanbul",
                 "date": "2020-02-28-20-30"
             }
-        ],
-        "url": "https://tiyatrolar.com.tr/tiyatro/anne-yoksa-evde-kimse-yoktur"
+        ]
     },
     {
+        "url": "https://tiyatrolar.com.tr/tiyatro/eylul",
         "sessions": [
             {
                 "place": "Kadıköy Boa Sahne / İstanbul",
@@ -537,10 +562,10 @@
                 "place": "Kumbaracı50 / İstanbul",
                 "date": "2020-02-26-20-30"
             }
-        ],
-        "url": "https://tiyatrolar.com.tr/tiyatro/eylul"
+        ]
     },
     {
+        "url": "https://tiyatrolar.com.tr/tiyatro/kayitsiz",
         "sessions": [
             {
                 "place": "Entropi Sahne / İstanbul",
@@ -554,10 +579,10 @@
                 "place": "Entropi Sahne / İstanbul",
                 "date": "2020-01-22-20-30"
             }
-        ],
-        "url": "https://tiyatrolar.com.tr/tiyatro/kayitsiz"
+        ]
     },
     {
+        "url": "https://tiyatrolar.com.tr/tiyatro/gercek-1",
         "sessions": [
             {
                 "place": "Zorlu PSM / İstanbul",
@@ -567,10 +592,10 @@
                 "place": "Zorlu PSM / İstanbul",
                 "date": "2020-01-26-20-30"
             }
-        ],
-        "url": "https://tiyatrolar.com.tr/tiyatro/gercek-1"
+        ]
     },
     {
+        "url": "https://tiyatrolar.com.tr/tiyatro/guneyli-bayan",
         "sessions": [
             {
                 "place": "Caddebostan Kültür Merkezi / İstanbul",
@@ -607,11 +632,35 @@
             {
                 "place": "Kozyatağı Kültür Merkezi / İstanbul",
                 "date": "2020-02-27-20-30"
+            },
+            {
+                "place": "Caddebostan Kültür Merkezi / İstanbul",
+                "date": "2020-03-03-20-30"
+            },
+            {
+                "place": "Raif Dinçkök Kültür Merkezi / Yalova",
+                "date": "2020-03-04-20-00"
+            },
+            {
+                "place": "Kocaeli Sabancı Kültür Merkezi / Kocaeli",
+                "date": "2020-03-05-20-00"
+            },
+            {
+                "place": "Kadıköy Halk Eğitim Merkezi / İstanbul",
+                "date": "2020-03-19-20-30"
+            },
+            {
+                "place": "Kenter Tiyatrosu / İstanbul",
+                "date": "2020-03-20-20-30"
+            },
+            {
+                "place": "Leyla Gencer Opera ve Sanat Merkezi / İstanbul",
+                "date": "2020-03-26-20-30"
             }
-        ],
-        "url": "https://tiyatrolar.com.tr/tiyatro/guneyli-bayan"
+        ]
     },
     {
+        "url": "https://tiyatrolar.com.tr/tiyatro/orijinal-gunahlar",
         "sessions": [
             {
                 "place": "Kadıköy Boa Sahne / İstanbul",
@@ -629,10 +678,10 @@
                 "place": "BlackOut Şişli Sahnesi / İstanbul",
                 "date": "2020-02-25-20-30"
             }
-        ],
-        "url": "https://tiyatrolar.com.tr/tiyatro/orijinal-gunahlar"
+        ]
     },
     {
+        "url": "https://tiyatrolar.com.tr/tiyatro/orijinal-gunahlar",
         "sessions": [
             {
                 "place": "Kadıköy Boa Sahne / İstanbul",
@@ -650,10 +699,10 @@
                 "place": "BlackOut Şişli Sahnesi / İstanbul",
                 "date": "2020-02-25-20-30"
             }
-        ],
-        "url": "https://tiyatrolar.com.tr/tiyatro/orijinal-gunahlar"
+        ]
     },
     {
+        "url": "https://tiyatrolar.com.tr/tiyatro/kadin-kafasi",
         "sessions": [
             {
                 "place": "Trump Kültür ve Gösteri Merkezi / İstanbul",
@@ -667,10 +716,10 @@
                 "place": "Panora Sanat Merkezi / Ankara",
                 "date": "2020-02-16-19-00"
             }
-        ],
-        "url": "https://tiyatrolar.com.tr/tiyatro/kadin-kafasi"
+        ]
     },
     {
+        "url": "https://tiyatrolar.com.tr/tiyatro/kayitsiz",
         "sessions": [
             {
                 "place": "Entropi Sahne / İstanbul",
@@ -680,10 +729,10 @@
                 "place": "Entropi Sahne / İstanbul",
                 "date": "2020-02-23-20-30"
             }
-        ],
-        "url": "https://tiyatrolar.com.tr/tiyatro/kayitsiz"
+        ]
     },
     {
+        "url": "https://tiyatrolar.com.tr/tiyatro/tarla-kusuydu-juliet-3",
         "sessions": [
             {
                 "place": "Uniq Hall / İstanbul",
@@ -720,11 +769,19 @@
             {
                 "place": "Narlıdere Atatürk Kültür Merkezi / İzmir",
                 "date": "2020-02-27-20-30"
+            },
+            {
+                "place": "50. Yıl 4 Mevsim Tiyatro Salonu / Ankara",
+                "date": "2020-02-25-20-00"
+            },
+            {
+                "place": "50. Yıl 4 Mevsim Tiyatro Salonu / Ankara",
+                "date": "2020-02-26-20-00"
             }
-        ],
-        "url": "https://tiyatrolar.com.tr/tiyatro/tarla-kusuydu-juliet-3"
+        ]
     },
     {
+        "url": "https://tiyatrolar.com.tr/tiyatro/ayni-mezarin-oluleri-1",
         "sessions": [
             {
                 "place": "Asmalı Sahne / İstanbul",
@@ -750,30 +807,60 @@
                 "place": "Asmalı Sahne / İstanbul",
                 "date": "2020-02-26-20-30"
             }
-        ],
-        "url": "https://tiyatrolar.com.tr/tiyatro/ayni-mezarin-oluleri-1"
+        ]
     },
     {
-        "sessions": [],
-        "url": "https://tiyatrolar.com.tr/tiyatro/sertabin-muzikali"
+        "url": "https://tiyatrolar.com.tr/tiyatro/sertabin-muzikali",
+        "sessions": []
     },
     {
-        "sessions": [],
-        "url": "https://tiyatrolar.com.tr/tiyatro/once-bir-bosluk-oldu-kalp-gidince-ama-simdi-iyi"
+        "url": "https://tiyatrolar.com.tr/tiyatro/once-bir-bosluk-oldu-kalp-gidince-ama-simdi-iyi",
+        "sessions": []
     },
     {
-        "sessions": [],
-        "url": "https://tiyatrolar.com.tr/tiyatro/sessizlik"
+        "url": "https://tiyatrolar.com.tr/tiyatro/sessizlik",
+        "sessions": []
     },
     {
-        "sessions": [],
-        "url": "https://tiyatrolar.com.tr/tiyatro/teror"
+        "url": "https://tiyatrolar.com.tr/tiyatro/teror",
+        "sessions": [
+            {
+                "place": "Yunus Emre Kültür Merkezi / İstanbul",
+                "date": "2020-02-05-20-30"
+            },
+            {
+                "place": "Yunus Emre Kültür Merkezi / İstanbul",
+                "date": "2020-02-13-20-30"
+            },
+            {
+                "place": "Yunus Emre Kültür Merkezi / İstanbul",
+                "date": "2020-02-19-20-30"
+            }
+        ]
     },
     {
-        "sessions": [],
-        "url": "https://tiyatrolar.com.tr/tiyatro/dunyada-karsilasmis-gibi"
+        "url": "https://tiyatrolar.com.tr/tiyatro/dunyada-karsilasmis-gibi",
+        "sessions": [
+            {
+                "place": "Volkswagen Arena / İstanbul",
+                "date": "2020-02-16-20-30"
+            },
+            {
+                "place": "Volkswagen Arena / İstanbul",
+                "date": "2020-02-17-20-30"
+            },
+            {
+                "place": "Volkswagen Arena / İstanbul",
+                "date": "2020-02-23-20-30"
+            },
+            {
+                "place": "Volkswagen Arena / İstanbul",
+                "date": "2020-02-24-20-30"
+            }
+        ]
     },
     {
+        "url": "https://tiyatrolar.com.tr/tiyatro/agaclar-ayakta-olur-1",
         "sessions": [
             {
                 "place": "Trump Kültür ve Gösteri Merkezi / İstanbul",
@@ -858,11 +945,51 @@
             {
                 "place": "Profilo Kültür Merkezi / İstanbul",
                 "date": "2020-03-29-16-00"
+            },
+            {
+                "place": "Profilo Kültür Merkezi / İstanbul",
+                "date": "2020-02-25-20-30"
+            },
+            {
+                "place": "Kocaeli Sabancı Kültür Merkezi / Kocaeli",
+                "date": "2020-03-09-20-00"
+            },
+            {
+                "place": "İzmir AKM Tiyatro Salonu / İzmir",
+                "date": "2020-03-14-20-30"
+            },
+            {
+                "place": "Kadıköy Halk Eğitim Merkezi / İstanbul",
+                "date": "2020-03-23-20-30"
+            },
+            {
+                "place": "Leyla Gencer Opera ve Sanat Merkezi / İstanbul",
+                "date": "2020-03-24-20-30"
+            },
+            {
+                "place": "Beylikdüzü Atatürk Kültür ve Sanat Merkezi / İstanbul",
+                "date": "2020-03-25-20-30"
+            },
+            {
+                "place": "Trump Kültür ve Gösteri Merkezi / İstanbul",
+                "date": "2020-03-26-20-30"
+            },
+            {
+                "place": "Trump Kültür ve Gösteri Merkezi / İstanbul",
+                "date": "2020-04-03-20-30"
+            },
+            {
+                "place": "Profilo Kültür Merkezi / İstanbul",
+                "date": "2020-04-05-16-00"
+            },
+            {
+                "place": "Kadıköy Halk Eğitim Merkezi / İstanbul",
+                "date": "2020-04-19-18-00"
             }
-        ],
-        "url": "https://tiyatrolar.com.tr/tiyatro/agaclar-ayakta-olur-1"
+        ]
     },
     {
+        "url": "https://tiyatrolar.com.tr/tiyatro/amadeus-2",
         "sessions": [
             {
                 "place": "Uniq Hall / İstanbul",
@@ -916,10 +1043,10 @@
                 "place": "Uniq Hall / İstanbul",
                 "date": "2020-03-30-20-30"
             }
-        ],
-        "url": "https://tiyatrolar.com.tr/tiyatro/amadeus-2"
+        ]
     },
     {
+        "url": "https://tiyatrolar.com.tr/tiyatro/cadi-avi",
         "sessions": [
             {
                 "place": "Kadıköy Emek Tiyatrosu / İstanbul",
@@ -939,13 +1066,12 @@
             },
             {
                 "place": "Kadıköy Emek Tiyatrosu / İstanbul",
-                "date": "2020-03-02-20-30"
+                "date": "2020-03-21-20-30"
             },
             {
                 "place": "Kadıköy Emek Tiyatrosu / İstanbul",
-                "date": "2020-03-21-20-30"
+                "date": "2020-03-02-20-30"
             }
-        ],
-        "url": "https://tiyatrolar.com.tr/tiyatro/cadi-avi"
+        ]
     }
 ]
